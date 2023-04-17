@@ -14,8 +14,8 @@
 <h3>💻 GitHub Profile Stats</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<img alt="SisoroT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SisoroT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars" height="185px"/>
-<img alt="SisoroT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisoroT&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,lua" height="185px"/>
+<img alt="SisoroT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SisoroT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars" height="182px"/>
+<img alt="SisoroT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisoroT&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,lua" height="182px"/>
 </br>
 
 <h3 align="left">Additional Tools and Technologies:</h3>
