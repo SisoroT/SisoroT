@@ -1,8 +1,10 @@
 <div align="justify">
 <p align="left"><strong><samp>「</samp></strong></p>
   
-<h1 align="center">Hey, I'm Ryan 👋</h1>
-<h3 align="center">A passionate backend developer from Atlanta, Georgia</h3>
+<p align="center">
+ <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=95&lines=Hey%2C+I'm+Ryan!;A+passionate+Back-end+developer;from+Atlanta%2C+Georgia!" />
+</p>
 
 <h3 align="left">👀 <img src="https://komarev.com/ghpvc/?username=sisorot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </h3>
 
