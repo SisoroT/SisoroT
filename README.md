@@ -9,13 +9,13 @@
 <h3>🔥 Streak Stats</h3>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SisoroT's Streak Stats" src="https://streak-stats.demolab.com/?user=SisoroT&theme=monokai-metallian&hide_border=true"/>
+<img alt="SisoroT's Streak Stats" src="https://streak-stats.demolab.com/?user=SisoroT&theme=monokai-metallian&hide_border=true"/>
 
 <h3>💻 GitHub Profile Stats</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<img alt="SisoroT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SisoroT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars" height="192px"/>
-<img alt="SisoroT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisoroT&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,lua" height="192px"/>
+<img alt="SisoroT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SisoroT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars" height="182px"/>
+<img alt="SisoroT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisoroT&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,lua" height="182px"/>
 </br>
 
 <h3 align="left">Additional Tools and Technologies:</h3>
