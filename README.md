@@ -3,7 +3,7 @@
   
 <p align="center">
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=95&lines=Hey%2C+I'm+Ryan!;A+passionate+Back-end+developer;from+Atlanta%2C+Georgia!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=95&lines=%F0%9F%91%8B%F0%9F%8F%BE+Hey%2C+I'm+Ryan!+%F0%9F%91%8B%F0%9F%8F%BE;A+passionate+Back-end+developer;from+Atlanta%2C+Georgia!" />
 </p>
 
 <h3 align="left">👀 <img src="https://komarev.com/ghpvc/?username=sisorot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </h3>
