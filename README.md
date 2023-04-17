@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisorot&label=Profile%20views&color=0e75b6&style=flat" alt="sisorot" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sisorot&show_icons=true&count_private=true&locale=en&hide=stars" alt="sisorot" /></p>
+<p><img align="left" width = "50%" src="https://github-readme-stats.vercel.app/api?username=sisorot&show_icons=true&count_private=true&locale=en&hide=stars" alt="sisorot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisorot&" alt="sisorot" /></p>
+<p>&nbsp;<img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sisorot&" alt="sisorot" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisorot&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html,css,lua" alt="sisorot" /></p>
 
